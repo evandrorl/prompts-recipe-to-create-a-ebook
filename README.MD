@@ -1,4 +1,3 @@
-Vou criar um modelo de README baseado no conteúdo do arquivo que você forneceu para um repositório de projeto que utiliza o e-book como base.
 
 ---
 

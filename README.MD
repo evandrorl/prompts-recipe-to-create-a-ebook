@@ -93,6 +93,4 @@ A proposta é explorar os fundamentos e boas práticas de criação de prompts p
 
 ---
 
-⌨️ com 💜 por Evandro Rosa Lopes
-
-Se precisar de mais ajustes ou customizações, é só me avisar! 😊
+⌨️ com 💜 por Evandro Rosa Lopes 😊

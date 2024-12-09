@@ -14,16 +14,19 @@
 
 ## Introdução
 
-Este projeto é baseado no e-book **"Guia Prático para Criar Prompts Poderosos"** de **Evandro Rosa Lopes**, que oferece estratégias práticas para melhorar sua interação com modelos de IA.
+Esse projeto faz parte do BootCamp CAIXA - IA Generativa com Microsoft Copilot ministrado pela @dio.me, sobre  curadoria do professor @
 
-A proposta é explorar os fundamentos e boas práticas de criação de prompts para obter respostas mais eficazes e úteis. O projeto contém ferramentas e exemplos para praticar a criação de prompts e refinar suas habilidades.
+A proposta da atividade é utilizar ferramentas de IA generativa para criar um e-book.
+
+O e-book idealizado é um guia com boas práticas de criação de prompts para obter respostas mais eficazes e úteis. O projeto contém ferramentas e exemplos para praticar a criação de prompts e refinar suas habilidades.
+
+O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"** de **Evandro Rosa Lopes**.
 
 ---
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
-- [MidJourney](https://www.midjourney.com/app/)
 - [Markdown](https://www.markdownguide.org/)
 - [GitHub](https://github.com)
 

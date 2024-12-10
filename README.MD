@@ -31,24 +31,30 @@ O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"** de **Ev
 - [GitHub](https://github.com)
 
 ---
+## 🧠 Prompts
 
-## 📖 Conteúdo do E-Book
+ChatGPT:
 
-- **Capítulo 1: Os Fundamentos de um Bom Prompt**
-  - Como definir objetivos claros.
-  - Importância da especificidade e detalhes nos prompts.
+| Ação        | Prompt                                                                                                                        |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Criar e-book| Crie um e-book com as seguintes características:                                                                              |
+|             | Ser um guia prático, simples e direto para ensinar como criar prompts eficazes e poderosos.                                   |
+|             | Iniciantes e profissionais que utilizam IA e querem melhorar sua interação com modelos de linguagem.                          |
+|             | Didático, acessível e motivacional, com exemplos claros e diretos.                                                            |
+|             | - Introdução: Explique o que são prompts, sua importância e como eles impactam os resultados na interação com IA.             |
+|             | - Capítulo 1: Os fundamentos de um bom prompt.                                                                                |
+|             |   * Definição de objetivos claros.                                                                                            |
+|             |   * Linguagem específica e detalhada.                                                                                         |
+|             | - Capítulo 2: Estruturas úteis para prompts.                                                                                  |
+|             |   * Divisão em tópicos ou perguntas.                                                                                          |
+|             |   * Uso de exemplos e variáveis.                                                                                              |
+|             | - Capítulo 3: Como testar e refinar prompts.                                                                                  |
+|             |   * Técnicas para analisar e ajustar resultados.                                                                              |
+|             |   * Erros comuns e como evitá-los.                                                                                            |
+|             | - Dicas ou Passo a Passo: Um guia simples para criar um prompt poderoso em 5 etapas.                                          |
+|             | - Conclusão: Reforce a importância de prática e experimentação, e incentive a aplicação das técnicas aprendidas.              |
+|             | 10 páginas.                                                                                                                   |
 
-- **Capítulo 2: Estruturas Úteis para Prompts**
-  - Estratégias para dividir prompts complexos em partes gerenciáveis.
-  - Exemplos para fornecer contexto adicional.
-
-- **Capítulo 3: Como Testar e Refinar Prompts**
-  - Métodos para analisar e ajustar resultados.
-  - Erros comuns e como evitá-los.
-
-- **Dicas Práticas**
-  - Cinco etapas para criar prompts poderosos.
-  - Exemplos práticos e exercícios para aprimorar habilidades.
 
 ---
 

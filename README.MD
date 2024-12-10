@@ -22,7 +22,7 @@ O e-book idealizado é um guia com boas práticas de criação de prompts para o
 
 O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"**.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://https://github.com/evandrorl/prompts-recipe-to-create-a-ebook/blob/main/output/INTRODU%C3%87%C3%83O%20(4).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ---
 
@@ -60,12 +60,12 @@ ChatGPT Criação do texto:
 
 ChatGPT Criação das imagens:
 
-| Ação        | Prompt                                                                                               |
-|-------------|-----------------------------------------------------------------------------------------------------|
-| Capa        | Crie uma imagem para ilustrar a capa de um e-book. Somente a imagem, nenhuma palavra ou texto. Cria a imagem com o contexto do título do e-book: "Guia Prático para Criar Prompts Poderosos". |
-| Capítulo 1  | Crie a imagem, somente a imagem, para ilustrar o primeiro capítulo: "OS FUNDAMENTOS DE UM BOM PROMPT". |
-| Capítulo 2  | Crie a imagem, somente a imagem, para ilustrar o capítulo 2: "Estruturas úteis para prompts".        |
-| Capítulo 3  | Crie a imagem, somente a imagem, para ilustrar o capítulo 3: "COMO TESTAR E REFINAR PROMPTS".        |
+| Ação           | Prompt                                                                                               |
+|----------------|-----------------------------------------------------------------------------------------------------|
+| Capa           | Crie uma imagem para ilustrar a capa de um e-book. Somente a imagem, nenhuma palavra ou texto. Cria a imagem com o contexto do título do e-book: "Guia Prático para Criar Prompts Poderosos". |
+| Capítulo 1     | Crie a imagem, somente a imagem, para ilustrar o primeiro capítulo: "OS FUNDAMENTOS DE UM BOM PROMPT". |
+| Capítulo 2     | Crie a imagem, somente a imagem, para ilustrar o capítulo 2: "Estruturas úteis para prompts".        |
+| Capítulo 3     | Crie a imagem, somente a imagem, para ilustrar o capítulo 3: "COMO TESTAR E REFINAR PROMPTS".        |
 
 ---
 

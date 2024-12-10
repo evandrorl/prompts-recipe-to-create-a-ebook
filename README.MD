@@ -69,8 +69,8 @@ ChatGPT Criação das imagens:
 
 ## ✨ Features
 
-- **Conteúdo gerado via Gpt**
-- **Imagens Geradas via Gpt**
+- **Conteúdo gerado via ChatGpt**
+- **Imagens Geradas via ChatGpt**
 - **Canvas usado para diagramação**
 
 ---

@@ -91,11 +91,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Autor
 
 <p>
-    <img 
-      align="left" 
-      style="margin: 10px; width: 80px; border-radius: 50%;" 
-      src="https://avatars.githubusercontent.com/u/68791659?v=4" 
-    />
+  <img 
+    src="https://avatars.githubusercontent.com/u/68791659?v=4" 
+    alt="Rounded Image" 
+    style="border-radius: 50%; width: 80px; margin: 10px;" 
+  />
 </p>
       &nbsp;&nbsp;&nbsp;<strong>Evandro Rosa Lopes</strong><br>
       &nbsp;&nbsp;&nbsp;<a href="https://github.com/evandrorl">GitHub</a> | <a href="https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/">LinkedIn</a>

@@ -99,7 +99,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>
       &nbsp;&nbsp;&nbsp;<strong>Evandro Rosa Lopes</strong><br>
-      &nbsp;&nbsp;&nbsp;<a href="#">GitHub</a> | <a href="#">LinkedIn</a>
+      &nbsp;&nbsp;&nbsp;<a href="https://github.com/evandrorl">GitHub</a> | <a href="https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/">LinkedIn</a>
     </p>
 </p>
 <br/><br/>

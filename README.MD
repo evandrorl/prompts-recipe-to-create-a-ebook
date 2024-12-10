@@ -14,8 +14,7 @@
 
 ## Introdução
 
-Esse projeto faz parte do BootCamp CAIXA - IA Generativa com Microsoft Copilot ministrado pela[DIO](https://dio.me), sobre  curadoria do professor [FELIPÃO](https://www.linkedin.com/in/
-felipe-exe)
+Esse projeto faz parte do BootCamp CAIXA - IA Generativa com Microsoft Copilot ministrado pela [DIO](https://dio.me), sobre  curadoria do professor [FELIPE AGUIAR](https://www.linkedin.com/in/felipe-exe)
 
 A proposta da atividade é utilizar ferramentas de IA generativa para criar um e-book.
 

@@ -95,6 +95,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
+    style="border-radius: 50%; width: 80px; margin: 10px;" 
        src="https://avatars.githubusercontent.com/u/68791659?v=4" 
     />
     <p>&nbsp&nbsp&nbspEvandro Rosa Lopes<br>
@@ -109,24 +110,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 </p>
 <br/><br/>
 <p>
-
-
-
-
-
-<p>
-  <img 
-    src="https://avatars.githubusercontent.com/u/68791659?v=4" 
-    alt="Rounded Image" 
-    style="border-radius: 50%; width: 80px; margin: 10px;" 
-  />
-</p>
-      &nbsp;&nbsp;&nbsp;<strong>Evandro Rosa Lopes</strong><br>
-      &nbsp;&nbsp;&nbsp;<a href="https://github.com/evandrorl">GitHub</a> | <a href="https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/">LinkedIn</a>
-    </p>
-</p>
-<br/><br/>
-
 ---
 
 ⌨️ com 💜 por Evandro Rosa Lopes 😊

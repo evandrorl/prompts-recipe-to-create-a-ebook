@@ -93,11 +93,10 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p>
     <img 
       align="left" 
-      margin="10" 
-      width="80" 
+      style="margin: 10px; width: 80px; border-radius: 50%;" 
       src="https://avatars.githubusercontent.com/u/68791659?v=4" 
     />
-    <p>
+</p>
       &nbsp;&nbsp;&nbsp;<strong>Evandro Rosa Lopes</strong><br>
       &nbsp;&nbsp;&nbsp;<a href="https://github.com/evandrorl">GitHub</a> | <a href="https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/">LinkedIn</a>
     </p>

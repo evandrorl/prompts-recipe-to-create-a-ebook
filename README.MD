@@ -22,6 +22,8 @@ O e-book idealizado é um guia com boas práticas de criação de prompts para o
 
 O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"**.
 
+<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ---
 
 ## 💻 Tecnologias utilizadas no projeto

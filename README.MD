@@ -14,13 +14,13 @@
 
 ## Introdução
 
-Esse projeto faz parte do BootCamp CAIXA - IA Generativa com Microsoft Copilot ministrado pela [DIO](https://dio.me), sobre  curadoria do professor [FELIPE AGUIAR](https://www.linkedin.com/in/felipeaguiar-exe/)
+ > ℹ️ **NOTE:**  Esse projeto faz parte do BootCamp CAIXA - IA Generativa com Microsoft Copilot ministrado pela [DIO](https://dio.me), sobre  curadoria do professor [FELIPE AGUIAR](https://www.linkedin.com/in/felipeaguiar-exe/)
 
 A proposta da atividade é utilizar ferramentas de IA generativa para criar um e-book.
 
 O e-book idealizado é um guia com boas práticas de criação de prompts para obter respostas mais eficazes e úteis. O projeto contém ferramentas e exemplos para praticar a criação de prompts e refinar suas habilidades.
 
-O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"** de **Evandro Rosa Lopes**.
+O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"**.
 
 ---
 

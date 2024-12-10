@@ -34,7 +34,7 @@ O título do e-book é: **"Guia Prático para Criar Prompts Poderosos"** de **Ev
 ---
 ## 🧠 Prompts
 
-ChatGPT:
+ChatGPT Criação do texto:
 
 | Ação        | Prompt                                                                                                                        |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -56,6 +56,8 @@ ChatGPT:
 |             | - Conclusão: Reforce a importância de prática e experimentação, e incentive a aplicação das técnicas aprendidas.              |
 |             | 10 páginas.                                                                                                                   |
 
+ChatGPT Criação das imagens:
+
 | Ação        | Prompt                                                                                               |
 |-------------|-----------------------------------------------------------------------------------------------------|
 | Capa        | Crie uma imagem para ilustrar a capa de um e-book. Somente a imagem, nenhuma palavra ou texto. Cria a imagem com o contexto do título do e-book: "Guia Prático para Criar Prompts Poderosos". |
@@ -67,9 +69,9 @@ ChatGPT:
 
 ## ✨ Features
 
-- **Conteúdo didático:** Organizado para iniciantes e usuários avançados.
-- **Exercícios práticos:** Exemplos para testar e refinar prompts.
-- **Guia visual:** Diagramas e imagens para facilitar o aprendizado.
+- **Conteúdo gerado via Gpt**
+- **Imagens Geradas via Gpt**
+- **Canvas usado para diagramação**
 
 ---
 

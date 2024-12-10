@@ -77,18 +77,14 @@ ChatGPT Criação das imagens:
 
 ## 📚 Materiais
 
-- **E-Book:** Incluído no repositório.
-- **Exercícios:** Veja exemplos no capítulo "Exercícios Práticos e Exemplos".
-- **Ferramentas de suporte:** Links para aprofundar conhecimentos.
+- **Imagens geradas em:** `assets`.
+- **E-Book:** Incluído no repositório em:** `output`.
 
 ---
 
-## 🛠️ Instruções de Execução
+## 🛠️ Instruções de execução
 
-1. Leia o e-book localizado na pasta `output/`.
-2. Utilize os exemplos fornecidos para praticar a criação de prompts.
-3. Aplique as dicas e refine seus próprios prompts.
-4. Compartilhe seus resultados e melhorias no repositório.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ---
 
@@ -99,7 +95,7 @@ ChatGPT Criação das imagens:
       align="left" 
       margin="10" 
       width="80" 
-      src="https://via.placeholder.com/80" 
+      src="https://avatars.githubusercontent.com/u/68791659?v=4" 
     />
     <p>
       &nbsp;&nbsp;&nbsp;<strong>Evandro Rosa Lopes</strong><br>

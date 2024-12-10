@@ -60,12 +60,12 @@ ChatGPT Criação do texto:
 
 ChatGPT Criação das imagens:
 
-| Ação        | Prompt                                                                                               |
-|-------------|-----------------------------------------------------------------------------------------------------|
-| Capa        | Crie uma imagem para ilustrar a capa de um e-book. Somente a imagem, nenhuma palavra ou texto. Cria a imagem com o contexto do título do e-book: "Guia Prático para Criar Prompts Poderosos". |
-| Capítulo 1  | Crie a imagem, somente a imagem, para ilustrar o primeiro capítulo: "OS FUNDAMENTOS DE UM BOM PROMPT". |
-| Capítulo 2  | Crie a imagem, somente a imagem, para ilustrar o capítulo 2: "Estruturas úteis para prompts".        |
-| Capítulo 3  | Crie a imagem, somente a imagem, para ilustrar o capítulo 3: "COMO TESTAR E REFINAR PROMPTS".        |
+| Ação           | Prompt                                                                                               |
+|----------------|-----------------------------------------------------------------------------------------------------|
+| Capa           | Crie uma imagem para ilustrar a capa de um e-book. Somente a imagem, nenhuma palavra ou texto. Cria a imagem com o contexto do título do e-book: "Guia Prático para Criar Prompts Poderosos". |
+| Capítulo 1     | Crie a imagem, somente a imagem, para ilustrar o primeiro capítulo: "OS FUNDAMENTOS DE UM BOM PROMPT". |
+| Capítulo 2     | Crie a imagem, somente a imagem, para ilustrar o capítulo 2: "Estruturas úteis para prompts".        |
+| Capítulo 3     | Crie a imagem, somente a imagem, para ilustrar o capítulo 3: "COMO TESTAR E REFINAR PROMPTS".        |
 
 ---
 

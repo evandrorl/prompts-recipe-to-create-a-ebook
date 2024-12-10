@@ -91,6 +91,30 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Autor
 
 <p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+       src="https://avatars.githubusercontent.com/u/68791659?v=4" 
+    />
+    <p>&nbsp&nbsp&nbspEvandro Rosa Lopes<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/evandrorl">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/evandrolopesoficial/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+
+
+
+
+<p>
   <img 
     src="https://avatars.githubusercontent.com/u/68791659?v=4" 
     alt="Rounded Image" 
